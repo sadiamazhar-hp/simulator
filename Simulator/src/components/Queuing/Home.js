@@ -13,6 +13,7 @@ function Home() {
         autoPlay
         loop
         muted
+        style={{ opacity: 0.6 }} // Adjust the opacity value as needed
       />
       <div className="text-center relative">
         <h1 className="text-5xl text-white-800 font-bold mb-8 animate-pulse">
