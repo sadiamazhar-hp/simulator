@@ -23,7 +23,7 @@ function Home() {
 
         <p className="text-black glowing-text text-xl mb-8 w-2/3 mx-auto">
 
-          Welcome to the Queueing Model Simulator project! Our interactive tool empowers you with the ability to delve into the fascinating realm of queueing theory. With just a few clicks, you can explore the dynamics of various queueing systems, such as MM1, MG1, GG1, MM2, MG2, and GG2 models.        </p>
+          Welcome to the Queueing Model Simulator project! Our interactive tool empowers you with the ability to delve into the fascinating realm of queueing theory. With just a few clicks, you can explore the dynamics of various queueing systems, such as MM1, MG1, GG1, MM2, MG2, GG2, MMC, MGC and GGC models.        </p>
 
         <div className="space-x-4 space-y-16">
           <div className="flex flex-wrap space-x-8 justify-center">
