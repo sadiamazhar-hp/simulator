@@ -25,7 +25,7 @@ function LandingPage() {
           Presented By:
         </h2>
         <p><b>SADIAMAZHAR  |  ALI FAROOQ   |    MUHAMMAD JUNAID</b></p>
-        <p className="text-white glowing-text text-xl mb-8 w-2/3 mx-auto">
+        <p className="text-black glowing-text text-xl mb-8 w-2/3 mx-auto">
 
           Welcome to the Queueing Model Simulator project! Our interactive tool empowers you with the ability to delve into the fascinating realm of queueing theory. With just a few clicks, you can explore the dynamics of various queueing systems, such as MM1, MG1, GG1, MM2, MG2, and GG2 models.        </p>
 
