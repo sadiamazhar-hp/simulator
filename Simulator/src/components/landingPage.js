@@ -13,6 +13,7 @@ function LandingPage() {
         autoPlay
         loop
         muted
+        style={{ opacity: 0.6 }} // Adjust the opacity value as needed
       />
       
       <div className="text-center relative">
@@ -31,8 +32,8 @@ function LandingPage() {
         <div className="space-x-4 space-y-16">
             <Link to="/Home">
               <button className="glowing-btn">
-                <span className="glowing-word">
-                  Queueing
+              <span className="glowing-word" style={{ fontWeight: 1500, fontSize: '40px' }}>
+                  QUEUING
                 </span>
               </button>
             </Link>
